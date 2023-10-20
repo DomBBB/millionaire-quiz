@@ -1,4 +1,4 @@
-import html # this imports html
+import html
 import tkinter as tk
 import tkinter.font as font
 
