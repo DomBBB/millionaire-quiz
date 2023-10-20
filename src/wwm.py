@@ -1,4 +1,4 @@
-import html # comment
+import html
 import tkinter as tk
 import tkinter.font as font
 
